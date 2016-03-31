@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "down" : "ccppnotify:blocks/bottom",
+        "up"   : "ccppnotify:blocks/top_magenta",
+        "north": "ccppnotify:blocks/side_magenta",
+        "south": "ccppnotify:blocks/side_magenta",
+        "west" : "ccppnotify:blocks/side_magenta",
+        "east" : "ccppnotify:blocks/side_magenta",
+		"particle": "ccppnotify:blocks/side_magenta"
+    }
+}

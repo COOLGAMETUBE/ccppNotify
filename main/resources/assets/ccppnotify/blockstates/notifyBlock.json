@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "color=0": { "model": "ccppnotify:notifyBlock" },
+        "color=1": { "model": "ccppnotify:notifyBlock1" },
+        "color=2": { "model": "ccppnotify:notifyBlock2" },
+        "color=3": { "model": "ccppnotify:notifyBlock3" },
+        "color=4": { "model": "ccppnotify:notifyBlock4" },
+        "color=5": { "model": "ccppnotify:notifyBlock5" },
+        "color=6": { "model": "ccppnotify:notifyBlock6" },
+        "color=7": { "model": "ccppnotify:notifyBlock7" },
+        "color=8": { "model": "ccppnotify:notifyBlock8" },
+        "color=9": { "model": "ccppnotify:notifyBlock9" },
+        "color=10": { "model": "ccppnotify:notifyBlock10" },
+        "color=11": { "model": "ccppnotify:notifyBlock11" },
+        "color=12": { "model": "ccppnotify:notifyBlock12" },
+        "color=13": { "model": "ccppnotify:notifyBlock13" },
+        "color=14": { "model": "ccppnotify:notifyBlock14" },
+        "color=15": { "model": "ccppnotify:notifyBlock15" }
+    }
+}

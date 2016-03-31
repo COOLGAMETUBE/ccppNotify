@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ccppnotify",
+  "name": "Notification light (Peripheral)",
+  "description": "This simple block allows you to have a notification light, like on common Android-Devices! It comes with 16 different colors (Wool-Colors) and light up if the color is not black(off).",
+  "version": "1.0",
+  "mcversion": "1.8.6",
+  "url": "http://www.computercraft.info/forums2/index.php?/topic/26342-189-peripheral-notifylight/",
+  "updateUrl": "dl.coolgametube.net/MinecraftMods/ccppnotify/ccppnotify_1_8.jar",
+  "authorList": ["COOLGAMETUBE"],
+  "credits": "Dan200 for API / COOLGAMETUBE for Peripheral",
+  "logoFile": "pack.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
